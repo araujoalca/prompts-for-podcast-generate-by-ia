@@ -11,8 +11,6 @@ ChatGPT：
 
 ChatGPT - Meus Prompts:：
 
-                                                                                                                                                                                                                                                                      |
-
 <table border="1">
   <thead>
     <tr>
@@ -84,9 +82,12 @@ Quadros Fixos de Cada Episódio:
 
 Título do Episódio 1 (Abertura da Temporada): “Banco Relacional ou NoSQL — como decidir?”
 
-|
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico
       </td>
+    </tr>
+    <tr>
+      <td>Título</td>
+            aça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico
+        </td>
     </tr>
   </tbody>
 </table>
