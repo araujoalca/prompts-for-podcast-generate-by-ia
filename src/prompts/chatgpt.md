@@ -11,6 +11,7 @@ ChatGPT：
 
 ChatGPT - Meus Prompts:：
 
+
 <table border="1">
   <thead>
     <tr>
@@ -20,7 +21,7 @@ ChatGPT - Meus Prompts:：
   </thead>
   <tbody>
     <tr>
-      <td>Título</td>
+      <td>Podcast</td>
       <td>
         Preciso criar um Podcast, e aos poucos iremos montando ele aqui, ok?
 Vamos, então, criar um título para o nosso Podcast?
@@ -96,16 +97,7 @@ Quadros Fixos de Cada Episódio:
 
 Título do Episódio 1 (Abertura da Temporada): <br>
 “Banco Relacional ou NoSQL — como decidir?”
-|
       </td>
-    </tr>
-    <tr>
-      <td>Título</td>
-            aça um texto para ebook , com foco em CSS, listando os principais <br>
-seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira <br>
-simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais, <br>
-sempre deixe um título sugestivo por tópico
-        </td>
     </tr>
   </tbody>
 </table>
