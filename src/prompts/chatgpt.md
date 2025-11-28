@@ -11,9 +11,20 @@ ChatGPT：
 
 ChatGPT - Meus Prompts:：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Preciso criar um Podcast, e aos poucos iremos montando ele aqui, ok?
+                                                                                                                                                                                                                                                                      |
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Ação</th>
+      <th>Prompt</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Título</td>
+      <td>
+        Preciso criar um Podcast, e aos poucos iremos montando ele aqui, ok?
 Vamos, então, criar um título para o nosso Podcast?
 Crie um título de um podcast sobre o tema de SQL, o podcast é do nicho de programação e o subnicho é de Banco de Dados Relacional, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos.
 
@@ -74,4 +85,8 @@ Quadros Fixos de Cada Episódio:
 Título do Episódio 1 (Abertura da Temporada): “Banco Relacional ou NoSQL — como decidir?”
 
 |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico
+      </td>
+    </tr>
+  </tbody>
+</table>
